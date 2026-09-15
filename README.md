@@ -27,19 +27,6 @@ This is my space where I'll be sharing projects, experiments, and things I'm lea
 
 ---
 
-## Current Focus
-
-**Machine Learning → Deep Learning → LLMs → RAG → AI Agents**
-
----
-
-## Featured Projects
-
-🤖 **BISense** — AI-powered RAG application for BIS Standards
-
-🔎 More AI & ML projects coming soon...
-
----
 
 ## Connect With Me
 
