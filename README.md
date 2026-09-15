@@ -7,17 +7,6 @@ I'm currently learning Machine Learning foundations and exploring AI Engineering
 This is my space where I'll be sharing projects, experiments, and things I'm learning along the way.
 
 ---
-
-## Tools & Tech
-
-- Python, SQL
-- NumPy, Pandas, Scikit-learn
-- FastAPI, React
-- RAG, FAISS, Sentence Transformers
-- Git & GitHub
-
----
-
 ## A Bit About Me
 
 - 🤖 Interested in AI Engineering
@@ -26,10 +15,3 @@ This is my space where I'll be sharing projects, experiments, and things I'm lea
 - 📚 Always exploring new AI technologies
 
 ---
-
-
-## Connect With Me
-
-📧 19anveshh@gmail.com
-
-🐙 GitHub: [19anveshh](https://github.com/19anveshh)
