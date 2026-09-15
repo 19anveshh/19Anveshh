@@ -1,17 +1,16 @@
 # Hey there 👋
 
-I'm Anvesh, a B.Tech Computer Science student interested in Artificial Intelligence and building practical AI applications.
+I'm Anvesh, a B.Tech CSE student interested in **AI Engineering**.
 
-I'm currently learning Machine Learning foundations and exploring AI Engineering, RAG, LLMs and AI-powered systems.
+Currently learning **Machine Learning** and exploring **RAG, LLMs, and AI applications**.
 
-This is my space where I'll be sharing projects, experiments, and things I'm learning along the way.
+I enjoy learning by building practical projects. 🚀
 
 ---
+
 ## A Bit About Me
 
-- 🤖 Interested in AI Engineering
-- 🧠 Currently strengthening my ML foundations
-- 🔨 I like building things and learning by doing
-- 📚 Always exploring new AI technologies
-
----
+- 🤖 Aspiring AI Engineer
+- 🧠 Learning ML Foundations
+- 🔨 Building AI projects
+- 🚀 Exploring LLMs & RAG
